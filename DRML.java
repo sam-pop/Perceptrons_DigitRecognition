@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.DecimalFormat;
 
-class Q3 {
+class DRML {
 
 	static int TOTAL_RECORDS = 20000; //total number of records in file
 	static int ATTRIBUTES = 17; //16 attributes + 1 bias
