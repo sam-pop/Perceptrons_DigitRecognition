@@ -1,11 +1,11 @@
 # Perceptrons_MachineLearning
 Exercise in machine learning using Perceptron, an algorithm for supervised learning of binary classifiers (functions that can decide whether an input, represented by a vector of numbers, belongs to some specific class or not). It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector. 
 
-This algorithm recognizes letters by a vector of numbers (that represents pixels). 
+This algorithm recognizes letters by a vector of numbers.
 
 This program is an implementation of Perceptron learning. we will use it to train Perceptrons to do a letter recognition task.
 The data for this task is the Letter Recognition data set from the UCI machine-learning repository: http://archive.ics.uci.edu/ml/datasets/Letter+Recognition <br>
-There are 16 attributes used to describe each input figure, as described on the Webpage.
+There are 16 attributes used to describe each input figure, as described on the Webpage above.
 
 <b>Task: </b>This perceptron model will distinguish ‘A’ from some other letter. For example, suppose that we want to learn a model that classifies an input figure into ‘A’ or ‘B’.
 
